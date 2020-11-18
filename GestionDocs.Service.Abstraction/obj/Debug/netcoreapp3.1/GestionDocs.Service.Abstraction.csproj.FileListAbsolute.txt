@@ -1,0 +1,12 @@
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Service.Abstraction\bin\Debug\netcoreapp3.1\GestionDocs.Service.Abstraction.deps.json
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Service.Abstraction\bin\Debug\netcoreapp3.1\GestionDocs.Service.Abstraction.dll
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Service.Abstraction\bin\Debug\netcoreapp3.1\GestionDocs.Service.Abstraction.pdb
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Service.Abstraction\bin\Debug\netcoreapp3.1\GestionDocs.Data.Abstraction.dll
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Service.Abstraction\bin\Debug\netcoreapp3.1\GestionDocs.Data.Abstraction.pdb
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Service.Abstraction\obj\Debug\netcoreapp3.1\GestionDocs.Service.Abstraction.csprojAssemblyReference.cache
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Service.Abstraction\obj\Debug\netcoreapp3.1\GestionDocs.Service.Abstraction.AssemblyInfoInputs.cache
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Service.Abstraction\obj\Debug\netcoreapp3.1\GestionDocs.Service.Abstraction.AssemblyInfo.cs
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Service.Abstraction\obj\Debug\netcoreapp3.1\GestionDocs.Service.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Service.Abstraction\obj\Debug\netcoreapp3.1\GestionDocs.Service.Abstraction.csproj.CopyComplete
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Service.Abstraction\obj\Debug\netcoreapp3.1\GestionDocs.Service.Abstraction.dll
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Service.Abstraction\obj\Debug\netcoreapp3.1\GestionDocs.Service.Abstraction.pdb

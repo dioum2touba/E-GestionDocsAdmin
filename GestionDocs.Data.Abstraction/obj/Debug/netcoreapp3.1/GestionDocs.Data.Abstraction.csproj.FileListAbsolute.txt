@@ -1,0 +1,9 @@
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Data.Abstraction\bin\Debug\netcoreapp3.1\GestionDocs.Data.Abstraction.deps.json
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Data.Abstraction\bin\Debug\netcoreapp3.1\GestionDocs.Data.Abstraction.dll
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Data.Abstraction\obj\Debug\netcoreapp3.1\GestionDocs.Data.Abstraction.csprojAssemblyReference.cache
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Data.Abstraction\obj\Debug\netcoreapp3.1\GestionDocs.Data.Abstraction.AssemblyInfoInputs.cache
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Data.Abstraction\obj\Debug\netcoreapp3.1\GestionDocs.Data.Abstraction.AssemblyInfo.cs
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Data.Abstraction\obj\Debug\netcoreapp3.1\GestionDocs.Data.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Data.Abstraction\bin\Debug\netcoreapp3.1\GestionDocs.Data.Abstraction.pdb
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Data.Abstraction\obj\Debug\netcoreapp3.1\GestionDocs.Data.Abstraction.dll
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Data.Abstraction\obj\Debug\netcoreapp3.1\GestionDocs.Data.Abstraction.pdb

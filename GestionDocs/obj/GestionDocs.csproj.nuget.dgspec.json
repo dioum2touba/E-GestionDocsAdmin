@@ -1,0 +1,305 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs\\GestionDocs.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs.Data.Abstraction\\GestionDocs.Data.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs.Data.Abstraction\\GestionDocs.Data.Abstraction.csproj",
+        "projectName": "GestionDocs.Data.Abstraction",
+        "projectPath": "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs.Data.Abstraction\\GestionDocs.Data.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\DIOUM2TOUBA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs.Data.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DIOUM2TOUBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs.Data\\GestionDocs.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs.Data\\GestionDocs.Data.csproj",
+        "projectName": "GestionDocs.Data",
+        "projectPath": "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs.Data\\GestionDocs.Data.csproj",
+        "packagesPath": "C:\\Users\\DIOUM2TOUBA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DIOUM2TOUBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs.Data.Abstraction\\GestionDocs.Data.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs.Data.Abstraction\\GestionDocs.Data.Abstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs.Service.Abstraction\\GestionDocs.Service.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs.Service.Abstraction\\GestionDocs.Service.Abstraction.csproj",
+        "projectName": "GestionDocs.Service.Abstraction",
+        "projectPath": "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs.Service.Abstraction\\GestionDocs.Service.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\DIOUM2TOUBA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs.Service.Abstraction\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DIOUM2TOUBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs.Data.Abstraction\\GestionDocs.Data.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs.Data.Abstraction\\GestionDocs.Data.Abstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs.Service\\GestionDocs.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs.Service\\GestionDocs.Service.csproj",
+        "projectName": "GestionDocs.Service",
+        "projectPath": "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs.Service\\GestionDocs.Service.csproj",
+        "packagesPath": "C:\\Users\\DIOUM2TOUBA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DIOUM2TOUBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs.Service.Abstraction\\GestionDocs.Service.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs.Service.Abstraction\\GestionDocs.Service.Abstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs\\GestionDocs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs\\GestionDocs.csproj",
+        "projectName": "GestionDocs",
+        "projectPath": "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs\\GestionDocs.csproj",
+        "packagesPath": "C:\\Users\\DIOUM2TOUBA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DIOUM2TOUBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs.Data\\GestionDocs.Data.csproj": {
+                "projectPath": "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs.Data\\GestionDocs.Data.csproj"
+              },
+              "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs.Service.Abstraction\\GestionDocs.Service.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs.Service.Abstraction\\GestionDocs.Service.Abstraction.csproj"
+              },
+              "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs.Service\\GestionDocs.Service.csproj": {
+                "projectPath": "C:\\Users\\DIOUM2TOUBA\\Documents\\LinkedinLearning\\ASP.NET  Niveau avancé\\GestionDocs\\GestionDocs.Service\\GestionDocs.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

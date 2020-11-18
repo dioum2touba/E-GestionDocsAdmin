@@ -1,0 +1,14 @@
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Service\bin\Debug\netcoreapp3.1\GestionDocs.Service.deps.json
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Service\bin\Debug\netcoreapp3.1\GestionDocs.Service.dll
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Service\bin\Debug\netcoreapp3.1\GestionDocs.Service.pdb
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Service\bin\Debug\netcoreapp3.1\GestionDocs.Data.Abstraction.dll
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Service\bin\Debug\netcoreapp3.1\GestionDocs.Service.Abstraction.dll
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Service\bin\Debug\netcoreapp3.1\GestionDocs.Service.Abstraction.pdb
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Service\bin\Debug\netcoreapp3.1\GestionDocs.Data.Abstraction.pdb
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Service\obj\Debug\netcoreapp3.1\GestionDocs.Service.csprojAssemblyReference.cache
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Service\obj\Debug\netcoreapp3.1\GestionDocs.Service.AssemblyInfoInputs.cache
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Service\obj\Debug\netcoreapp3.1\GestionDocs.Service.AssemblyInfo.cs
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Service\obj\Debug\netcoreapp3.1\GestionDocs.Service.csproj.CoreCompileInputs.cache
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Service\obj\Debug\netcoreapp3.1\GestionDocs.Service.csproj.CopyComplete
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Service\obj\Debug\netcoreapp3.1\GestionDocs.Service.dll
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Service\obj\Debug\netcoreapp3.1\GestionDocs.Service.pdb

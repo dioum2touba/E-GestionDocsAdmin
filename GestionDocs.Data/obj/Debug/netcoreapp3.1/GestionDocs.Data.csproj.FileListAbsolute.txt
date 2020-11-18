@@ -1,0 +1,12 @@
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Data\bin\Debug\netcoreapp3.1\GestionDocs.Data.Abstraction.dll
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Data\obj\Debug\netcoreapp3.1\GestionDocs.Data.csprojAssemblyReference.cache
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Data\obj\Debug\netcoreapp3.1\GestionDocs.Data.AssemblyInfoInputs.cache
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Data\obj\Debug\netcoreapp3.1\GestionDocs.Data.AssemblyInfo.cs
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Data\bin\Debug\netcoreapp3.1\GestionDocs.Data.deps.json
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Data\bin\Debug\netcoreapp3.1\GestionDocs.Data.dll
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Data\bin\Debug\netcoreapp3.1\GestionDocs.Data.pdb
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Data\bin\Debug\netcoreapp3.1\GestionDocs.Data.Abstraction.pdb
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Data\obj\Debug\netcoreapp3.1\GestionDocs.Data.csproj.CoreCompileInputs.cache
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Data\obj\Debug\netcoreapp3.1\GestionDocs.Data.csproj.CopyComplete
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Data\obj\Debug\netcoreapp3.1\GestionDocs.Data.dll
+C:\Users\DIOUM2TOUBA\Documents\LinkedinLearning\ASP.NET  Niveau avancé\GestionDocs\GestionDocs.Data\obj\Debug\netcoreapp3.1\GestionDocs.Data.pdb
